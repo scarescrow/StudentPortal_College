@@ -1,0 +1,16 @@
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\bin\Debug\StudentPortal-2.exe
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\bin\Debug\StudentPortal-2.pdb
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\StudentPortal_2.Form1.resources
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\StudentPortal_2.Form2.resources
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\StudentPortal_2.Properties.Resources.resources
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\StudentPortal-2.exe
+c:\users\sagnik\documents\visual studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\StudentPortal-2.pdb
+C:\Users\Sagnik\Documents\Visual Studio 2010\Projects\StudentPortal-2\StudentPortal-2\bin\Debug\Database1.mdf
+C:\Users\Sagnik\Documents\Visual Studio 2010\Projects\StudentPortal-2\StudentPortal-2\bin\Debug\Database1_log.ldf
+C:\Users\Sagnik\Documents\Visual Studio 2010\Projects\StudentPortal-2\StudentPortal-2\bin\Debug\StudentPortal-2.exe.config
+C:\Users\Sagnik\Documents\Visual Studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\StudentPortal_2.Form3.resources
+C:\Users\Sagnik\Documents\Visual Studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\StudentPortal_2.Form4.resources
+C:\Users\Sagnik\Documents\Visual Studio 2010\Projects\StudentPortal-2\StudentPortal-2\obj\x86\Debug\StudentPortal_2.Form5.resources
